@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
-
+#include <algorithm>
 #include "project/heap.h"
 
 #include <stdexcept>
